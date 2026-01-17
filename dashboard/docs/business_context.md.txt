@@ -1,0 +1,62 @@
+# Business Context
+
+## Company Background
+This analysis is based on a real-world multi-channel consumer electronics business operating across several European markets.
+
+The company sells products through:
+- Direct-to-Consumer (D2C) webshop
+- B2B wholesale partnerships
+- Online marketplaces (e.g. Amazon, OTTO)
+
+The product portfolio includes smart devices, accessories, and consumer electronics with different pricing and margin structures.
+
+Company and product names are anonymized for confidentiality reasons.
+
+---
+
+## Business Challenge
+The company operates in a highly competitive environment with increasing pressure on margins driven by:
+- Rising logistics and fulfillment costs
+- Strong price competition on online marketplaces
+- Different pricing dynamics across sales channels
+
+Management needs to ensure that pricing decisions improve profitability without negatively impacting revenue or long-term customer relationships.
+
+---
+
+## Analytical Objectives
+The purpose of this analysis is to support management in:
+
+- Monitoring revenue, profitability, and margins at an executive level
+- Identifying high-performing and underperforming products
+- Understanding how pricing changes impact revenue and net profit
+- Evaluating pricing sensitivity across different sales channels
+- Supporting data-driven pricing and portfolio decisions
+
+---
+
+## Decision Support
+The dashboard enables decision-makers to answer practical business questions such as:
+
+- What is the financial impact of a 5% price reduction?
+- Can a small price increase (+2–3%) improve profitability without significant revenue loss?
+- Which sales channels are more resilient to pricing changes?
+- Which products contribute limited value and increase operational complexity?
+
+---
+
+## Business Impact
+This analysis supports pricing and profitability decisions by:
+- Highlighting the sensitivity of net profit to pricing changes
+- Identifying channels with higher margin resilience
+- Providing transparency into product-level contribution
+- Enabling informed discussions between finance, sales, and management teams
+
+---
+
+## Why This Analysis Matters
+Pricing is one of the most powerful levers for improving profitability.
+
+This case demonstrates how relatively small pricing adjustments can have a disproportionate impact on net profit, underlining the importance of pricing analytics in modern B2B and multi-channel organizations.
+
+---
